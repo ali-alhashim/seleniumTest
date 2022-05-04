@@ -9,10 +9,11 @@ from selenium.webdriver.support.expected_conditions import presence_of_element_l
 with webdriver.Firefox(executable_path='geckodriver.exe') as driver:
 
     wait = WebDriverWait(driver, 10)
-    driver.get("https://web.whatsapp.com/")
-    #driver.find_element_by_name("q").send_keys("cheese" + Keys.RETURN)
+    driver.get("https://eservices.ejar.sa/ar/public/login")
+    driver.find_element_by_name("current_username").send_keys("1111111111")
+    driver.find_element_by_name("current_password").send_keys("Password here" + Keys.RETURN)
 
-    wait.until(presence_of_element_located((By.CSS_SELECTOR, "Ali")))
+    wait.until(presence_of_element_located((By.CSS_SELECTOR, "ALHASHIM")))
 
     
 

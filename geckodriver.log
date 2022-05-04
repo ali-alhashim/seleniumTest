@@ -77,3 +77,79 @@ DevTools listening on ws://localhost:3758/devtools/browser/334c42d7-a7ba-4bab-a4
 Read port: 3777
 1651627039355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 1651627052175	Marionette	INFO	Stopped listening on port 3777
+1651627333027	geckodriver	INFO	Listening on 127.0.0.1:3953
+1651627336124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3954" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ali\\AppData\\Local\\Temp\\rust_mozprofileiEMgZa"
+1651627336319	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ali\\AppData\\Local\\Temp\\rust_mozprofileiEMgZa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:3954/devtools/browser/8867f75b-121b-454d-98e3-d8b9ad20f171
+1651627337452	Marionette	INFO	Listening on port 3972
+Read port: 3972
+1651627337556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651627346857	Marionette	INFO	Stopped listening on port 3972
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651627390591	geckodriver	INFO	Listening on 127.0.0.1:4034
+1651627393670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4035" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ali\\AppData\\Local\\Temp\\rust_mozprofileFP7zxt"
+1651627393871	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ali\\AppData\\Local\\Temp\\rust_mozprofileFP7zxt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4035/devtools/browser/693f6664-caf7-41eb-be39-d3d07acb566d
+1651627394986	Marionette	INFO	Listening on port 4057
+Read port: 4057
+1651627395090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651627407717	Marionette	INFO	Stopped listening on port 4057
+1651627499434	geckodriver	INFO	Listening on 127.0.0.1:4175
+1651627502515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4176" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ali\\AppData\\Local\\Temp\\rust_mozprofileAt4WEt"
+1651627502708	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ali\\AppData\\Local\\Temp\\rust_mozprofileAt4WEt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4176/devtools/browser/5fc72271-0cc9-4424-b904-2c9f599ff4b9
+1651627503841	Marionette	INFO	Listening on port 4196
+Read port: 4196
+1651627503945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651627506423	Marionette	INFO	Stopped listening on port 4196
+[Parent 3224, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 761: Error: Connection closed before committing the transaction.
+1651627518168	geckodriver	INFO	Listening on 127.0.0.1:4236
+1651627521259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4237" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ali\\AppData\\Local\\Temp\\rust_mozprofileOf1azT"
+1651627521440	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ali\\AppData\\Local\\Temp\\rust_mozprofileOf1azT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4237/devtools/browser/bfe0acd4-4de8-46ff-830d-1246e99c8715
+1651627522582	Marionette	INFO	Listening on port 4259
+Read port: 4259
+1651627522699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651627524782	Marionette	INFO	Stopped listening on port 4259
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 761: Error: Connection closed before committing the transaction.
+1651627535514	geckodriver	INFO	Listening on 127.0.0.1:4290
+1651627538635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ali\\AppData\\Local\\Temp\\rust_mozprofileH8lKPI"
+1651627538835	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ali\\AppData\\Local\\Temp\\rust_mozprofileH8lKPI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4291/devtools/browser/2c63bef3-fa83-490e-a131-51aecacd8f7e
+1651627539983	Marionette	INFO	Listening on port 4311
+Read port: 4311
+1651627540083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://eservices.ejar.sa"
+1651627552414	Marionette	INFO	Stopped listening on port 4311
+1651627630667	geckodriver	INFO	Listening on 127.0.0.1:4370
+1651627633767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ali\\AppData\\Local\\Temp\\rust_mozprofileLu4Xkk"
+1651627633950	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ali\\AppData\\Local\\Temp\\rust_mozprofileLu4Xkk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4371/devtools/browser/13f340ac-21c8-4195-9c8e-874ca4075f89
+1651627635082	Marionette	INFO	Listening on port 4390
+Read port: 4390
+1651627635104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://eservices.ejar.sa"
+1651627642171	Marionette	INFO	Stopped listening on port 4390
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651627671114	geckodriver	INFO	Listening on 127.0.0.1:4432
+1651627674212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4433" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ali\\AppData\\Local\\Temp\\rust_mozprofileiwp4iH"
+1651627674395	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ali\\AppData\\Local\\Temp\\rust_mozprofileiwp4iH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4433/devtools/browser/bcc16792-62d5-4e69-a357-faf43f58ed6c
+1651627675537	Marionette	INFO	Listening on port 4451
+Read port: 4451
+1651627675648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://eservices.ejar.sa"
+1651627688985	Marionette	INFO	Stopped listening on port 4451
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
